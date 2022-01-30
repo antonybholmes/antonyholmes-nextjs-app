@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.politeinvestor.com</id>
-    <title>Polite Investor</title>
-    <updated>2022-01-24T04:14:27.133Z</updated>
+    <id>https://www.antonyholmes.dev</id>
+    <title>Antony Holmes</title>
+    <updated>2022-01-30T05:23:00.777Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://www.politeinvestor.com"/>
-    <link rel="self" href="https://www.politeinvestor.com/atom.xml"/>
-    <icon>https://www.politeinvestor.com/favicon.png</icon>
-    <rights>All rights reserved 2022, Polite Investor</rights>
+    <link rel="alternate" href="https://www.antonyholmes.dev"/>
+    <link rel="self" href="https://www.antonyholmes.dev/atom.xml"/>
+    <icon>https://www.antonyholmes.dev/favicon.png</icon>
+    <rights>All rights reserved 2022, Antony Holmes</rights>
     <entry>
-        <title type="html"><![CDATA[Fees! Fees! Millions of Fees!]]></title>
-        <id>https://www.politeinvestor.com/blog/2022/01/19/fees-fees-millions-of-fees</id>
-        <link href="https://www.politeinvestor.com/blog/2022/01/19/fees-fees-millions-of-fees"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fee-ndish Fees]]></summary>
+        <title type="html"><![CDATA[Experiments with NextJS]]></title>
+        <id>https://www.antonyholmes.dev/blog/2022/01/28/nextjs</id>
+        <link href="https://www.antonyholmes.dev/blog/2022/01/28/nextjs"/>
+        <updated>2022-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've redesigned my web site again using NextJS.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Retirement Plan Contribution Limits]]></title>
-        <id>https://www.politeinvestor.com/blog/2022/01/16/2022-retirement-plan-contribution-limits</id>
-        <link href="https://www.politeinvestor.com/blog/2022/01/16/2022-retirement-plan-contribution-limits"/>
-        <updated>2022-01-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How much you can invest in 2022]]></summary>
+        <title type="html"><![CDATA[Experiments with Astro]]></title>
+        <id>https://www.antonyholmes.dev/blog/2021/10/20/astro</id>
+        <link href="https://www.antonyholmes.dev/blog/2021/10/20/astro"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've redesigned my web site again using Astro.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Vanilla Investor]]></title>
-        <id>https://www.politeinvestor.com/blog/2021/12/09/the-vanilla-investor</id>
-        <link href="https://www.politeinvestor.com/blog/2021/12/09/the-vanilla-investor"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You get what you don't pay for]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Full Fat Retirement]]></title>
-        <id>https://www.politeinvestor.com/blog/2021/12/07/full-fat-retirement</id>
-        <link href="https://www.politeinvestor.com/blog/2021/12/07/full-fat-retirement"/>
-        <updated>2021-12-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As with milk fat, know about the 4% rule]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Post! Welcome]]></title>
-        <id>https://www.politeinvestor.com/blog/2021/12/05/first-post</id>
-        <link href="https://www.politeinvestor.com/blog/2021/12/05/first-post"/>
-        <updated>2021-12-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to The Polite Investor]]></summary>
+        <title type="html"><![CDATA[New web site design!]]></title>
+        <id>https://www.antonyholmes.dev/blog/2021/07/01/new-design</id>
+        <link href="https://www.antonyholmes.dev/blog/2021/07/01/new-design"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've redesigned my web site using React.]]></summary>
     </entry>
 </feed>

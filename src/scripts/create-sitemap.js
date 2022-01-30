@@ -6,13 +6,13 @@ const Feed = require('feed').Feed
 const POSTS_DIR = path.join(
   process.cwd(),
   '_content',
-  'articles',
+  'blog',
   'posts',
   'published'
 )
 
-SITE_NAME = 'Polite Investor'
-SITE_URL = 'https://www.politeinvestor.com'
+SITE_NAME = 'Antony Holmes'
+SITE_URL = 'https://www.antonyholmes.dev'
 
 const getCanonicalPostSlug = path => {
   return path
