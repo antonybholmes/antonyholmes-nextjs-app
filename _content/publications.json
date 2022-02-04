@@ -1,5 +1,49 @@
 [
   {
+    "pmid": "35095922",
+    "pmcid": "PMC8789751",
+    "doi": "10.3389/fimmu.2021.818758",
+    "title": "Tracking Immunoglobulin Repertoire and Transcriptomic Changes in Germinal Center B Cells by Single-Cell Analysis",
+    "abstract": "In response to T-cell-dependent antigens, mature B cells in the secondary lymphoid organs are stimulated to form germinal centers (GCs), which are histological structures deputed to antibody affinity maturation, a process associated with immunoglobulin gene editing by somatic hypermutation (SHM) and class switch recombination (CSR). GC B cells are heterogeneous and transition across multiple stages before being eliminated by apoptosis or committing to post-GC differentiation as memory B cells or plasma cells. In order to explore the dynamics of SHM and CSR during the GC reaction, we identified GC subpopulations by single-cell (sc) transcriptomics and analyzed the load of immunoglobulin variable (V) region mutations as well as the isotype class distribution in each subpopulation. The results showed that the large majority of GC B cells display a quantitatively similar mutational load in the V regions and analogous IGH isotype class distribution, except for the precursors of memory B cells (PreM) and plasma cells (PBL). PreM showed a bimodal pattern with about half of the cells displaying high V region germline identity and enrichment for unswitched IGH, while the rest of the cells carried a mutational load similar to the bulk of GC B cells and showed a switched isotype. PBL displayed a bias toward expression of IGHG and higher V region germline identity compared to the bulk of GC B cells. Genes implicated in SHM and CSR were significantly induced in specific GC subpopulations, consistent with the occurrence of SHM in dark zone cells and suggesting that CSR can occur within the GC.",
+    "authorList": [
+      "Corinaldesi C",
+      "Holmes AB",
+      "Shen Q",
+      "Grunstein E",
+      "Pasqualucci L",
+      "Dalla-Favera R",
+      "Basso K"
+    ],
+    "authors": "Corinaldesi C, Holmes AB, Shen Q, Grunstein E, Pasqualucci L, Dalla-Favera R, Basso K",
+    "journal": "Front Immunol",
+    "year": 2022,
+    "month": 1,
+    "day": 12,
+    "volume": "12",
+    "issue": "12",
+    "pages": "",
+    "tagList": [
+      "article",
+      "columbia",
+      "icg",
+      "selected",
+      "selected::katia-basso",
+      "selected::riccardo-dalla-favera",
+      "first-author"
+    ],
+    "url": "",
+    "labs": [],
+    "peopleList": [
+      "clarissa-corinaldesi",
+      "antony-holmes",
+      "qiong-shen",
+      "laura-pasqualucci",
+      "riccardo-dalla-favera",
+      "katia-basso"
+    ],
+    "isbn": ""
+  },
+  {
     "pmid": "32299901",
     "pmcid": "PMC7849582",
     "doi": "10.3324/haematol.2019.241307",
