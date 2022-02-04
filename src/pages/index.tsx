@@ -55,7 +55,7 @@ const Page = ({ author, posts }: IProps) => {
 
               <p className="mt-8 text-xl">
                 I&apos;m a full stack developer with experience using multiple
-                technologies, which you can read.
+                technologies, some of which were used to make this very site.
               </p>
 
               <p className="mt-8 text-xl">
